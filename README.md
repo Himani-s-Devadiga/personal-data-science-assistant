@@ -32,22 +32,6 @@ A beginner-friendly data science project that predicts house prices and provides
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Himani-s-Devadiga/personal-data-science-assistant.git
-2.Install dependencies:
-
-pip install -r requirements.txt
-
-
-3.Run the interactive dashboard:
-
-jupyter notebook
-# or
-streamlit run personal_ds_assistant.py
-
 ## Screenshots
 EDA Correlation Heatmap – shows feature correlations
 <img width="1553" height="906" alt="Screenshot 2025-10-26 195740" src="https://github.com/user-attachments/assets/99918686-2177-4cea-816f-8c3ca312849d" />
@@ -67,3 +51,21 @@ Deploy as a web app for real-time user input.
 Add more features like neighborhood amenities, school rating, and crime rate.
 
 Use more advanced models like XGBoost or ensemble methods.
+
+## How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Himani-s-Devadiga/personal-data-science-assistant.git
+2.Install dependencies:
+
+pip install -r requirements.txt
+
+
+3.Run the interactive dashboard:
+
+jupyter notebook
+# or
+streamlit run personal_ds_assistant.py
+
+
